@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gian
 - 👀 I’m interested in Swift
-- 🌱 I’m currently learning iOS
+- 🌱 I’m currently learning Flutter
 - 💧 Don't forget to drink water
 
 <!---
