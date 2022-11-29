@@ -1,7 +1,7 @@
 # Introduction
 - 👋 Hi, I’m Gian
 - 👀 I’m interested in Swift, python, web programming, and dart
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning iOS and Flutter
 - 💧 Don't forget to drink water
 
 
